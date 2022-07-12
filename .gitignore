@@ -42,6 +42,9 @@ media
 # IntelliJ
 out/
 
+# Bootstrap doc
+static/
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 
